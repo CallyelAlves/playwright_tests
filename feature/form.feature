@@ -1,3 +1,5 @@
+Feature: Teste de Formulário
+
 Cenário: Preencher e enviar o formulário com todos os campos válidos
   Dado que eu estou na página de formulário
   Quando eu preencho o campo "Name" com "Zé"
